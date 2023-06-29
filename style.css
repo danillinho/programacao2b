@@ -64,3 +64,12 @@
     font-weight: 400;
     line-height: normal;
 }
+
+.corpo{
+    width: 1440px;
+    height: 834px;
+    flex-shrink: 0;
+    background: url(fundo.png), lightgray 50% / cover no-repeat;
+    Image: 1,440 x 834;
+    
+}
