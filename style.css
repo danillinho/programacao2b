@@ -18,6 +18,8 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    width: 200px;
+    
 }
 
 .item2c{
@@ -48,7 +50,7 @@
 }
 
 .item5c{ 
-    color: #000;
+    color: #FFFFFF;
     font-size: 48px;
     font-family: Inter;
     font-style: normal;
