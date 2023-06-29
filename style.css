@@ -66,7 +66,7 @@
 }
 
 .corpo{
-    width: 1400px;
+    width: 14px;
     height: 834px;
     flex-shrink: 0;
     background: url(fundo.png), lightgray 50% / cover no-repeat;
