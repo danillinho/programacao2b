@@ -4,3 +4,24 @@
     flex-shrink: 0;
     background: #000;
 }
+
+.imagem1{
+    width: 139px;
+    height: 118px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+image 1
+Image · 139 x 118
+1x
+
+}
+
+.item1c{
+    color: #FFF;
+    font-size: 48px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
